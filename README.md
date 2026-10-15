@@ -1,6 +1,8 @@
 # Arduino Line Follower Robot | PD Control
 
-![Physical prototype of the line follower robot](images/robot.jpg)
+<p align="center">
+  <img src="images/robot.jpg" alt="Arduino Line Follower Robot" width="500">
+</p>
 
 An Arduino-based, two-wheel line-following robot built with a five-channel digital infrared (IR) sensor array and an L298N motor driver. The project explores sensor-based navigation, differential motor control, and a proportional–derivative (PD) steering algorithm.
 
